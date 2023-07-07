@@ -1,0 +1,12 @@
+.product-container{
+    display: flex;
+    justify-content: center;
+    
+
+    .img{
+        width: 500px;
+        height: 500px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}

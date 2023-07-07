@@ -1,0 +1,19 @@
+.Header{
+    width: 100vw;
+    background-color: #3187ED;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+    .header-section{
+        padding-left: 10%;
+        display: flex;
+        gap: 50%;
+    }
+    .header-section2{
+        padding-right: 10%;
+        display: flex;
+        gap: 50%;
+
+    }
+}

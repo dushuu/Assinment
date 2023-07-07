@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.app{
+  width: 80px;
+  height: 80px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
